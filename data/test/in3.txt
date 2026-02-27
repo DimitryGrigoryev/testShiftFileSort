@@ -1,0 +1,9 @@
+22
+5.05
+-200
+10.0d
+assertThat(isNumeric("abc"))
+1000L
+0xFF
+07
+2.99e+8
